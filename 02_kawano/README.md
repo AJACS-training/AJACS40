@@ -1,3 +1,6 @@
+- [資料（PDF）](130712AJACS40.pdf)
+
+
 # AJACS40/sk2
 
 
